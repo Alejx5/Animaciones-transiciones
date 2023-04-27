@@ -1,0 +1,20 @@
+.btn-modern{
+  border: none;
+  margin: 4px 2px;
+  padding: 10px 20px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  background-color: #631292;
+  color: #fff;
+  cursor: pointer;
+  transition: all 0.4s;
+}
+
+.btn-modern:hover{
+  transform: translateY(-5px);
+  background-color: #b72df8;
+  color: #0a0a0a;
+  box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
